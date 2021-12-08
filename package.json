@@ -1,7 +1,8 @@
 {
   "name": "happy-happy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "开心一下",
+  "keywords": ["happy"],
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,6 +12,9 @@
   "author": "六奇",
   "license": "ISC",
   "private":false,
+  "repository": {
+    "url": "https://github.com/ylfeng250/happy-happy"
+  },
   "dependencies": {
     "chalk": "^4.0.0",
     "figlet": "^1.5.2"
